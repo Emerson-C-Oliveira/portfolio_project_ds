@@ -35,7 +35,7 @@ I'm excited to connect with other data science professionals, software engineers
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emerson-carlos-oliveira/)
 * [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:saulofcunha@outlook.com)](mailto:emerson_uo@hotmail.com)
-* [![Blank Badge](https://emerson-c-oliveira.github.io/portfolio_project_ds/)](https://emerson-c-oliveira.github.io/portfolio_project_ds/)
+* [![Link Portfolio](https://emerson-c-oliveira.github.io/portfolio_project_ds/)](https://emerson-c-oliveira.github.io/portfolio_project_ds/)
 
 
 ## Data Science Projects:
