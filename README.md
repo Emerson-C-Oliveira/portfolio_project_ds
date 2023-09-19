@@ -1,7 +1,7 @@
 # Emerson's Data Science Portfolio
 The main objective of this personal portfolio is to demonstrate my skills in solving business challengs through my knowledge and tools of Data Science.
 
-![Header](images/portfolio2.png)
+<img src="images/portfolio2.png" alt="Header" width="1200" height="800">
 
 # Emerson Carlos de Oliveira
 <sub>*Data Scientist*</sub>
@@ -35,8 +35,13 @@ I'm excited to connect with other data science professionals, software engineers
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emerson-carlos-oliveira/)
 * [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:saulofcunha@outlook.com)](mailto:emerson_uo@hotmail.com)
-* [![Link Portfolio](https://sites.google.com/view/emerson-oliveira-portfolio)](https://sites.google.com/view/emerson-oliveira-portfolio)
-* [![Link Portfolio2](https://emerson-c-oliveira.github.io/portfolio_project_ds/)](https://emerson-c-oliveira.github.io/portfolio_project_ds/)
+<a href="https://sites.google.com/view/emerson-oliveira-portfolio" class="portfolio-link">
+<img width="100" height="100" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/>
+</a>
+
+<a href="https://emerson-c-oliveira.github.io/portfolio_project_ds/" class="portfolio-link">
+<img width="100" height="100" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/>
+</a>
 
 ## Data Science Projects:
 
