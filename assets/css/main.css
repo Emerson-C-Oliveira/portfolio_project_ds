@@ -2271,3 +2271,40 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+/* Mudar a cor das linhas divisórias e botões "saiba mais" para azul escuro */
+hr {
+    border-color: #000080; /* Azul escuro */
+}
+
+.button {
+    background-color: #000080; /* Azul escuro */
+    border-color: #000080; /* Azul escuro */
+}
+
+.button:hover {
+    background-color: #000099; /* Um tom um pouco mais claro de azul escuro para o hover */
+    border-color: #000099; /* Um tom um pouco mais claro de azul escuro para o hover */
+}
+
+/* Ícones para a seção de Habilidades */
+.icon.solid.fa-code:before {
+    content: "\f121"; /* Ícone de código */
+}
+
+.icon.solid.fa-chart-line:before {
+    content: "\f201"; /* Ícone de gráfico de linha */
+}
+
+.icon.solid.fa-cloud:before {
+    content: "\f0c2"; /* Ícone de nuvem */
+}
+
+.icon.solid.fa-chart-bar:before {
+    content: "\f080"; /* Ícone de gráfico de barras */
+}
+
+.icon.solid.fa-users:before {
+    content: "\f0c0"; /* Ícone de usuários */
+}
+
