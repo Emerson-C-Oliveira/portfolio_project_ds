@@ -1,7 +1,7 @@
 # Emerson's Data Science Portfolio
 The main objective of this personal portfolio is to demonstrate my skills in solving business challengs through my knowledge and tools of Data Science.
 
-<img src="images/portfolio2.png" alt="Header" width="1200" height="800">
+<img src="images/portfolioimagem.png" alt="Header" width="1200" height="800">
 
 # Emerson Carlos de Oliveira
 <sub>*Data Scientist*</sub>
